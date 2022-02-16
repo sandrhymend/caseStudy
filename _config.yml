@@ -19,7 +19,6 @@ toc:
   h_max: 3
 
 # markdown render engine.
-future: false
 markdown:         kramdown
 kramdown:
   auto_ids:               true
