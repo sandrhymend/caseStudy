@@ -9,6 +9,14 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
             }
         },
         'twitter': {
+            'label': 'Linkedin',
+            'icon': 'fa fa-linkedin',
+            'onClick': function(e) {
+                e.preventDefault();
+                window.open('http://linkedin.com/home?status='+encodeURIComponent(document.title+' '+location.href));
+            }
+        },
+        'twitter': {
             'label': 'Twitter',
             'icon': 'fa fa-twitter',
             'onClick': function(e) {
@@ -47,7 +55,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
                 e.preventDefault();
                 window.open('http://vkontakte.ru/share.php?url='+encodeURIComponent(location.href));
             }
-        }
+        },
     };
 
 
