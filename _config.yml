@@ -9,8 +9,8 @@ description:
 version:          1.0
 gitbook_version:  3.2.3
 
-baseurl:          '/caseStudy'
-url:              'https://sandrhymend.github.io'
+baseurl:          ''
+url:              'https://sandrhymend.github.io/caseStudy'
 rss:              RSS
 
 toc:
