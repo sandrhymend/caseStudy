@@ -2,7 +2,6 @@
 title: About the company
 author: Sandra Perez
 date: 2022-01-26
-category: Jekyll
 layout: post
 ---
 ![image](/assets/images/bg-background.png)<!-- -->
