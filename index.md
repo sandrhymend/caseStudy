@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-![image](/assets/images/bg-background.png)<!-- -->
+![image](assets/images/bg-background.png)<!-- -->
 #### Case Study 2: How Can a Wellness Technology Company Play It Smart?
 
 This case study was a capstone project completed by Sandra Perez on January 2022 as part of the Google Data Analytics Professional Certificate.
